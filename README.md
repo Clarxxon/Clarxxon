@@ -1,13 +1,12 @@
 ### Hi there 👋
-
-<h4 align="center">Top langs :tongue:</h4>
-
+<div display="flex">
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clarxxon&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Clarxxon&show_icons=true&theme=synthwave" alt="Clarxxon :: Profile Stats" /></p>
 
+</div>
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 <!--
